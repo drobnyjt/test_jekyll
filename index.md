@@ -2,19 +2,30 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Research Topics
 
-[Link to another page](./another-page.html).
+* Plasma-Material Interactions
+* Particle-in-cell Codes
+* Binary Collision Approximation Codes
+* Fractal Theory
+* Scientific Software Development
 
-There should be whitespace between paragraphs.
+* * *
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Fluent in:
 
-# Header 1
+* Python
+* Fortran
+* C
+* MATLAB
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* * *
 
-## Header 2
+#Experience with:
+
+* C++
+* R
+* SAS
 
 > This is a blockquote following a header.
 >
@@ -22,13 +33,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
 ```ruby
 # Ruby code with syntax highlighting
