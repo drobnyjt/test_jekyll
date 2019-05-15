@@ -2,12 +2,14 @@
 layout: default
 ---
 
-# Publications
+# Publications, Research Interests, and Skills
+
+## Publications
 
 * F-TRIDYN: A Binary Collision Approximation code for simulating ion interactions with rough surfaces (JNM, 2017)
 * F-TRIDYN simulations of tungsten self-sputtering and applications to coupling plasma and material codes (CMS, 2018)
 
-# Presenting Author Conference Presentations
+## Presenting Author Conference Presentations
 
 * Fast, Statistical Model of Surface Roughness for Ion-Solid Interaction Simulations and Efficient Code Coupling (APS-DPP, 2017)
 * Comparative Study of Explicit vs. Implicit Particle-in-Cell schemes for Plasma Sheath Simulations (APS-DPP, 2018)
@@ -16,7 +18,7 @@ layout: default
 
 * * *
 
-# Research Topics
+## Research Topics
 
 * Plasma-Material Interactions
 * Nuclear Fusion
@@ -28,16 +30,16 @@ layout: default
 
 
 * * *
-# Programming Languages
+## Programming Languages
 
-## Fluent in:
+### Fluent in:
 
 * Python 2.7, 3.6+
 * Fortran 77, 95, 2018
 * C
 * MATLAB
 
-## Experienced with:
+### Experienced with:
 
 * C++
 * R
@@ -45,7 +47,7 @@ layout: default
 
 * * *
 
-# PIC-BCA Coupling
+## PIC-BCA Coupling
 
 ![PIC-BCA coupling illustration.](./figure_one_for_one.png)
 
