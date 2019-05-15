@@ -43,4 +43,8 @@ layout: default
 * R
 * SAS
 
+* * *
+
+# PIC-BCA Coupling
 ![PIC-BCA coupling illustration.](./figure_one_for_one.png)
+This illustration shows the strategy for coupling particle-in-cell plasma codes to a binary collision approximation material code.
