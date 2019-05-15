@@ -14,27 +14,30 @@ layout: default
 * Simulations of divertor target material composition during tokamak plasma operation with continuous boron powder injection (APS-DPP, 2018)
 * Applied Statistical Model of Surface Morphology for Plasma-Material Interactions (APS-DPP, 2018)
 
+* * *
+
 # Research Topics
 
 * Plasma-Material Interactions
-* Particle-in-cell Codes
+* Nuclear Fusion
+* Implicit and Explicit Particle-in-Cell Codes
 * Binary Collision Approximation Codes
 * Fractal Theory
 * Scientific Software Development
 * Code Coupling and Integrated Modeling
 
-* * *
 
-# Fluent in:
+* * *
+# Programming Languages
+
+## Fluent in:
 
 * Python 2.7, 3.6+
 * Fortran 77, 95, 2018
 * C
 * MATLAB
 
-* * *
-
-# Experienced with:
+## Experienced with:
 
 * C++
 * R
