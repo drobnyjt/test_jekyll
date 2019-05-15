@@ -4,6 +4,8 @@ layout: default
 
 # Publications, Research Interests, and Skills
 
+* * *
+
 ## Publications
 
 * F-TRIDYN: A Binary Collision Approximation code for simulating ion interactions with rough surfaces (JNM, 2017)
