@@ -37,15 +37,15 @@ layout: default
 ### Fluent in:
 
 * Python 2.7, 3.6+
-* Fortran 77, 95, 2018
+* Fortran 90-95, 2018
 * C
 * MATLAB
 
-### Experienced with:
+### Experience with:
 
 * C++
 * R
-* SAS
+* FORTRAN 77
 
 * * *
 
@@ -54,3 +54,9 @@ layout: default
 ![PIC-BCA coupling illustration.](./figure_one_for_one.png)
 
 This illustration shows the strategy for coupling particle-in-cell plasma codes to a binary collision approximation material code.
+
+## F-TRIDYN Physics
+
+![F-TRIDYN Physics illustration.](./ftridyn.png)
+
+An illustration of the various ion-matter interactions included in the code F-TRIDYN.
