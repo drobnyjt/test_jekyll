@@ -41,4 +41,4 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-![Octocat](./oic_bca.png)
+![PIC-BCA coupling illustration.](./pic_bca.png)
