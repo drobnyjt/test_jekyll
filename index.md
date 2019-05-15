@@ -41,4 +41,4 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-![PIC-BCA coupling illustration.](./pic_bca.png)
+![PIC-BCA coupling illustration.](./figure_one_for_one.png)
