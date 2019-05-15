@@ -54,12 +54,12 @@ layout: default
 
 ## PIC-BCA Coupling
 
-![PIC-BCA coupling illustration.](./figure_one_for_one.png)
+![PIC-BCA coupling illustration.](./figure_one_for_one.png =400x)
 
 This illustration shows the strategy for coupling particle-in-cell plasma codes to a binary collision approximation material code.
 
 ## F-TRIDYN Physics
 
-![F-TRIDYN Physics illustration.](./ftridyn.png)
+![F-TRIDYN Physics illustration.](./ftridyn.png =400x)
 
 An illustration of the various ion-matter interactions included in the code F-TRIDYN.
