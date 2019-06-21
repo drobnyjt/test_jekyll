@@ -2,6 +2,18 @@
 layout: default
 ---
 
+## Research Topics
+
+* Plasma-Material Interactions
+* Nuclear Fusion
+* Implicit and Explicit Particle-in-Cell Codes
+* Binary Collision Approximation Codes
+* Fractals
+* Scientific Software Development
+* Code Coupling and Integrated Modeling
+
+* * *
+
 # Publications, Research Interests, and Skills
 
 * * *
@@ -11,7 +23,7 @@ layout: default
 * [F-TRIDYN: A Binary Collision Approximation code for simulating ion interactions with rough surfaces (JNM, 2017)](https://doi.org/10.1016/j.jnucmat.2017.07.037)
 * [F-TRIDYN simulations of tungsten self-sputtering and applications to coupling plasma and material codes (CMS, 2018)](https://doi.org/10.1016/j.commatsci.2018.03.032)
 
-## First Author Conference Presentations
+## Presenting Author Conference Talks and Posters
 
 * [Fast, Statistical Model of Surface Roughness for Ion-Solid Interaction Simulations and Efficient Code Coupling (APS-DPP, 2017)](https://meetings.aps.org/Meeting/DPP17/Session/UO4.3)
 * [Comparative Study of Explicit vs. Implicit Particle-in-Cell schemes for Plasma Sheath Simulations (APS-DPP, 2018)](https://meetings.aps.org/Meeting/DPP18/Session/CP11.81)
@@ -20,18 +32,6 @@ layout: default
 * Statistical modeling of surface morphology for multi-scale simulations of plasma-surface interactions (PSI, 2018)
 * [Dynamic Fractal TRIDYN: Modeling Surface Morphology and Composition Evolution under Ion Bombardment (APS-DPP 2016)](https://meetings.aps.org/Meeting/DPP16/Session/JP10.153)
 * [Improved Fractal Surface Algorithm for Modeling Evolving Surface Roughness in Dynamic-Composition BCA Codes (APS-DPP, 2015)](https://meetings.aps.org/Meeting/DPP15/Session/PM11.7)
-
-* * *
-
-## Research Topics
-
-* Plasma-Material Interactions
-* Nuclear Fusion
-* Implicit and Explicit Particle-in-Cell Codes
-* Binary Collision Approximation Codes
-* Fractal Theory
-* Scientific Software Development
-* Code Coupling and Integrated Modeling
 
 * * *
 
@@ -46,9 +46,10 @@ layout: default
 
 ### Experience with:
 
-* C++
-* R
+* C++, C#
 * FORTRAN 77
+* R, SAS
+* Rust
 
 * * *
 
