@@ -6,15 +6,12 @@ layout: default
 
 * Plasma-Material Interactions
 * Nuclear Fusion
+* Interstellar Spaceflight and Shielding
 * Implicit and Explicit Particle-in-Cell Codes
-* Binary Collision Approximation Codes
-* Fractals
+* Binary Collision Approximation
+* Applied Fractal Theory
 * Scientific Software Development
 * Code Coupling and Integrated Modeling
-
-* * *
-
-# Publications, Research Interests, and Skills
 
 * * *
 
@@ -48,7 +45,7 @@ layout: default
 
 * C++, C#
 * FORTRAN 77
-* R, SAS
+* R
 * Rust
 
 * * *
