@@ -6,7 +6,7 @@ layout: default
 
 * Plasma-Material Interactions
 * Nuclear Fusion
-* Interstellar Spaceflight and Shielding
+* Interstellar Spaceflight
 * Implicit and Explicit Particle-in-Cell Codes
 * Binary Collision Approximation
 * Applied Fractal Theory
