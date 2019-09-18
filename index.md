@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Research Topics
+# Research Topics
 
 * Plasma-Material Interactions
 * Nuclear Fusion
@@ -50,6 +50,11 @@ layout: default
 * Rust
 
 * * *
+
+## Miscellaneous
+
+  * Member and presenter at The Hacker Within Illinois Chapter
+  *
 
 ## PIC-BCA Coupling
 
