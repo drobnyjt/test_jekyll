@@ -51,11 +51,6 @@ layout: default
 
 * * *
 
-## Miscellaneous
-
-  * Member and presenter at The Hacker Within Illinois Chapter
-  *
-
 ## PIC-BCA Coupling
 
 ![PIC-BCA coupling illustration.](./figure_one_for_one.png)
