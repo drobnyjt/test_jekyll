@@ -51,4 +51,4 @@ layout: default
 
 * * *
 
-[Figures]({% link /pages/figures.md})
+[Figures]({% link /pages/figures.md %})
