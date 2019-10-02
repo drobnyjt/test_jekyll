@@ -8,8 +8,8 @@ layout: default
 * Nuclear Fusion
 * Interstellar Spaceflight
 * Implicit and Explicit Particle-in-Cell Codes
-* Binary Collision Approximation
-* Applied Fractal Theory
+* Binary Collision Approximation Codes
+* Fractal Surface Science
 * Scientific Software Development
 * Code Coupling and Integrated Modeling
 
