@@ -4,12 +4,13 @@ layout: default
 
 # Research Topics
 
-* Plasma-Material Interactions
 * Nuclear Fusion
-* Interstellar Spaceflight
+* Plasma-Material Interactions
+* Ion-Solid Interactions
 * Implicit and Explicit Particle-in-Cell Codes
 * Binary Collision Approximation Codes
 * Fractal Surface Science
+* Interstellar Spaceflight
 * Scientific Software Development
 * Code Coupling and Integrated Modeling
 
