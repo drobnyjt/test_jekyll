@@ -35,19 +35,20 @@ layout: default
 
 ## Programming Languages
 
-### Fluent in:
+### Proficient with:
 
 * Python 2.7, 3.6+
 * Fortran 90-95, 2018
 * C
 * MATLAB
 
-### Experience with:
+### Some Eerience with:
 
 * C++, C#
 * FORTRAN 77
 * R
 * Rust
+* GML
 
 * * *
 
