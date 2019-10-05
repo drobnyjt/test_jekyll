@@ -45,7 +45,7 @@ layout: default
 * C
 * MATLAB
 
-### Some Eerience with:
+### Some Experience with:
 
 * C++, C#
 * FORTRAN 77
