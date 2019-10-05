@@ -16,10 +16,13 @@ layout: default
 
 * * *
 
-## Publications
+## First Author Publications
 * Damage to Relativistic Interstellar Spacecraft by ISM Impact Gas Accumulation (ApJ, Submitted 2019)
 * [F-TRIDYN simulations of tungsten self-sputtering and applications to coupling plasma and material codes (CMS, 2018)](https://doi.org/10.1016/j.commatsci.2018.03.032)
 * [F-TRIDYN: A Binary Collision Approximation code for simulating ion interactions with rough surfaces (JNM, 2017)](https://doi.org/10.1016/j.jnucmat.2017.07.037)
+
+## Publications
+* Multi-physics modeling of the long-term evolution of helium plasma exposed surfaces (Physica Scripta, Acceptted 2019)
 
 ## Presenting Author Conference Talks and Posters
 * [Particle-particle simulations of plasma-material interactions (APS-DPP, upcoming 2019)](http://meetings.aps.org/Meeting/DPP19/Session/PO6.11)
