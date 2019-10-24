@@ -65,13 +65,19 @@ This illustration shows the strategy for coupling particle-in-cell plasma codes 
 
 ![PIC-BCA Coupling Phase Space Plot.](./ps_7.png)
 
+Coupling of hydrogen plasma to boron wall, plotted in phase space. X-axis is position, Y-axis is velocity of each particle normalized by the thermal speed of that species. Hydrogen ions are shown in red, Hydrogen neutrals reflected from the wall are shownin maroon, sputtered and reflected boron is shown in black, and ionized boron is shown in blue.
+
 ## IEADs and Sputtering/Reflection Yields
 
 ![PIC-BCA Distributions and Yields.](./iead_d_overlay_both_star.png)
 
+This figure shows in color the ion energy-angle distribution of deuterium striking a boron wall in a magnetized sheath. Contours in red show the sputtering yield of deuterium on boron, and contours in white show the reflection coefficient. The purple star shows the peak energy and angle of the deuterium IEAD. Using the peak energy and angle significantly underestimates the sputtering yield.
+
 ## Impurity Tracing in Tokamaks
 
 ![Impurity Tracer Trajectories.](./tokamaks_orbits_2.png)
+
+Tracing impurities in DIII-D from DIMES.
 
 ## F-TRIDYN Physics
 
