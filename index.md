@@ -71,7 +71,7 @@ This illustration shows the strategy for coupling particle-in-cell plasma codes 
 
 ## Impurity Tracing in Tokamaks
 
-![Impurity Tracer Trajectories.](./tokamak_orbits_2.png)
+![Impurity Tracer Trajectories.](./tokamaks_orbits_2.png)
 
 ## F-TRIDYN Physics
 
