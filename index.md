@@ -61,6 +61,18 @@ layout: default
 
 This illustration shows the strategy for coupling particle-in-cell plasma codes to a binary collision approximation material code.
 
+## PIC-BCA Coupling Example: Hydrogen on Boron
+
+![PIC-BCA Coupling Phase Space Plot.](./ps_7.png)
+
+## IEADs and Sputtering/Reflection Yields
+
+![PIC-BCA Distributions and Yields.](./iead_d_overlay_both_star.png)
+
+## Impurity Tracing in Tokamaks
+
+![Impurity Tracer Trajectories.](./tokamak_orbits_2.png)
+
 ## F-TRIDYN Physics
 
 ![F-TRIDYN Physics illustration.](./ftridyn.png)
