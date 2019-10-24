@@ -26,9 +26,11 @@ layout: default
 
 ## Presenting Author Conference Talks and Posters
 * [Particle-particle simulations of plasma-material interactions (APS-DPP, upcoming 2019)](http://meetings.aps.org/Meeting/DPP19/Session/PO6.11)
+** [pdf](./APS_DPP_2019_Drobny.pdf)
 * [Comparative Study of Explicit vs. Implicit Particle-in-Cell schemes for Plasma Sheath Simulations (APS-DPP, 2018)](https://meetings.aps.org/Meeting/DPP18/Session/CP11.81)
 * [Simulations of divertor target material composition during tokamak plasma operation with continuous boron powder injection (APS-DPP, 2018)](https://meetings.aps.org/Meeting/DPP18/Session/JP11.93)
 * [Applied Statistical Model of Surface Morphology for Plasma-Material Interactions (APS-DPP, 2018)](https://meetings.aps.org/Meeting/DPP18/Session/NM9.7)
+** [pdf](./APS_DPP_2018_Drobny_Final.pptx.pdf)
 * Statistical modeling of surface morphology for multi-scale simulations of plasma-surface interactions (PSI, 2018)
 * [Fast, Statistical Model of Surface Roughness for Ion-Solid Interaction Simulations and Efficient Code Coupling (APS-DPP, 2017)](https://meetings.aps.org/Meeting/DPP17/Session/UO4.3)
 * [Dynamic Fractal TRIDYN: Modeling Surface Morphology and Composition Evolution under Ion Bombardment (APS-DPP 2016)](https://meetings.aps.org/Meeting/DPP16/Session/JP10.153)
