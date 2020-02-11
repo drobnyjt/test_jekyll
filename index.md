@@ -57,6 +57,10 @@ layout: default
 
 * * *
 
+# Selected Figures
+
+* * *
+
 ## PIC-BCA Coupling
 
 ![PIC-BCA 3D coupling illustration.](./PMI_3_labels.png)
