@@ -17,7 +17,8 @@ layout: default
 * * *
 
 ## First Author Publications
-* Damage to Relativistic Interstellar Spacecraft by ISM Impact Gas Accumulation (ApJ, Submitted 2019)
+* Survivability of Metallic Shields for Relativistic Spacecraft (JBIS, invited, submitted, 2020)
+* Damage to Relativistic Interstellar Spacecraft by ISM Impact Gas Accumulation (ApJ, under review, 2019)
 * [F-TRIDYN simulations of tungsten self-sputtering and applications to coupling plasma and material codes (CMS, 2018)](https://doi.org/10.1016/j.commatsci.2018.03.032)
 * [F-TRIDYN: A Binary Collision Approximation code for simulating ion interactions with rough surfaces (JNM, 2017)](https://doi.org/10.1016/j.jnucmat.2017.07.037)
 
@@ -25,7 +26,8 @@ layout: default
 * Multi-physics modeling of the long-term evolution of helium plasma exposed surfaces (Physica Scripta, Accepted 2019)
 
 ## Presenting Author Conference Talks and Posters
-* [Particle-particle simulations of plasma-material interactions (APS-DPP, upcoming 2019)](http://meetings.aps.org/Meeting/DPP19/Session/PO6.11) [***pdf***](./APS-DPP_2019_Drobny.pdf)
+* Particle in Cell Simulations of Material Emission from Boron and Lithium Surfaces Exposed to Deuterium Plasmas (PSI, upcoming 2020)
+* [Particle-particle simulations of plasma-material interactions (APS-DPP, 2019)](http://meetings.aps.org/Meeting/DPP19/Session/PO6.11) [***pdf***](./APS-DPP_2019_Drobny.pdf)
 * [Comparative Study of Explicit vs. Implicit Particle-in-Cell schemes for Plasma Sheath Simulations (APS-DPP, 2018)](https://meetings.aps.org/Meeting/DPP18/Session/CP11.81) [***pdf***](aps_dpp_pic_drobny_1_JD.pdf)
 * [Simulations of divertor target material composition during tokamak plasma operation with continuous boron powder injection (APS-DPP, 2018)](https://meetings.aps.org/Meeting/DPP18/Session/JP11.93) [***pdf***](aps_dpp_boronization_1_JD.pdf)
 * [Applied Statistical Model of Surface Morphology for Plasma-Material Interactions (APS-DPP, 2018)](https://meetings.aps.org/Meeting/DPP18/Session/NM9.7) [***pdf***](./APS_DPP_2018_Drobny_Final.pptx.pdf)
@@ -56,6 +58,9 @@ layout: default
 * * *
 
 ## PIC-BCA Coupling
+
+![PIC-BCA 3D coupling illustration.](./PMI_3_labels.png)
+This illustration shows the 3D PIC-BCA physics, including (a) sputtering, (b) ion-driven mixing, (c) vacancy production, (d) implantation, (e) layered composition, (f) ionization and redeposition, (g) reflection as neutrals.
 
 ![PIC-BCA coupling illustration.](./figure_one_for_one.png)
 
