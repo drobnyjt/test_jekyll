@@ -91,3 +91,7 @@ Tracing impurities in DIII-D from DIMES.
 ## F-TRIDYN Physics
 
 ![F-TRIDYN Physics illustration.](./ftridyn.png)
+
+## PyBCA Hydrogen on Copper at 10 keV
+
+![PyBCA with geometry.](./bca_geom_3.png)
