@@ -66,10 +66,6 @@ layout: default
 ![PIC-BCA 3D coupling illustration.](./PMI_3_labels.png)
 This illustration shows the 3D PIC-BCA physics, including (a) sputtering, (b) ion-driven mixing, (c) vacancy production, (d) implantation, (e) layered composition, (f) ionization and redeposition, (g) reflection as neutrals.
 
-![PIC-BCA coupling illustration.](./figure_one_for_one.png)
-
-This illustration shows the strategy for coupling particle-in-cell plasma codes to a binary collision approximation material code.
-
 ## PIC-BCA Coupling Example: Hydrogen on Boron
 
 ![PIC-BCA Coupling Phase Space Plot.](./ps_7.png)
@@ -92,6 +88,10 @@ Tracing impurities in DIII-D from DIMES.
 
 ![F-TRIDYN Physics illustration.](./ftridyn.png)
 
+Physical processes in F-TRIDYN. Figure made for my MS Thesis.
+
 ## PyBCA Hydrogen on Copper at 10 keV
 
 ![PyBCA with geometry.](./bca_geom_3.png)
+
+PyBCA is a new port of TRIDYN to Python. This version includes 2D geometry, a new screened Coulomb scattering integral solver from Mendenhall and Weller (1991, 2005), and some nice plotting features. Check it out at: https://github.com/drobnyjt/pybca
