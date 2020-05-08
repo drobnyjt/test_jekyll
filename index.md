@@ -23,7 +23,7 @@ layout: default
 * [F-TRIDYN: A Binary Collision Approximation code for simulating ion interactions with rough surfaces (JNM, 2017)](https://doi.org/10.1016/j.jnucmat.2017.07.037)
 
 ## Publications
-* Multi-physics modeling of the long-term evolution of helium plasma exposed surfaces (Physica Scripta, Accepted 2019)
+* [Multi-physics modeling of the long-term evolution of helium plasma exposed surfaces (Physica Scripta, 2020)](https://doi.org/10.1088/1402-4896/ab4c29)
 
 ## Presenting Author Conference Talks and Posters
 * Particle in Cell Simulations of Material Emission from Boron and Lithium Surfaces Exposed to Deuterium Plasmas (PSI, upcoming 2020)
@@ -35,7 +35,8 @@ layout: default
 * [Fast, Statistical Model of Surface Roughness for Ion-Solid Interaction Simulations and Efficient Code Coupling (APS-DPP, 2017)](https://meetings.aps.org/Meeting/DPP17/Session/UO4.3)
 * [Dynamic Fractal TRIDYN: Modeling Surface Morphology and Composition Evolution under Ion Bombardment (APS-DPP 2016)](https://meetings.aps.org/Meeting/DPP16/Session/JP10.153)
 * [Improved Fractal Surface Algorithm for Modeling Evolving Surface Roughness in Dynamic-Composition BCA Codes (APS-DPP, 2015)](https://meetings.aps.org/Meeting/DPP15/Session/PM11.7)
-
+* [Electron-Wave Interaction in a Planar Sputtering Magnetron (Butler University Undergraduate Research Conference, 2014)](https://digitalcommons.butler.edu/urc/2014/physics/5/)
+* [Discovering Extrasolar Planets through Hidden Markov Model Analysis (Rose-Hulman Undergraduate Research Publications, 2013)](https://scholar.rose-hulman.edu/cgi/viewcontent.cgi?article=1003&context=undergrad_research_pubs)
 * * *
 
 ## Programming Languages
