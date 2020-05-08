@@ -37,6 +37,7 @@ layout: default
 * [Improved Fractal Surface Algorithm for Modeling Evolving Surface Roughness in Dynamic-Composition BCA Codes (APS-DPP, 2015)](https://meetings.aps.org/Meeting/DPP15/Session/PM11.7)
 * [Electron-Wave Interaction in a Planar Sputtering Magnetron (Butler University Undergraduate Research Conference, 2014)](https://digitalcommons.butler.edu/urc/2014/physics/5/)
 * [Discovering Extrasolar Planets through Hidden Markov Model Analysis (Rose-Hulman Undergraduate Research Publications, 2013)](https://scholar.rose-hulman.edu/cgi/viewcontent.cgi?article=1003&context=undergrad_research_pubs)
+
 * * *
 
 ## Programming Languages
