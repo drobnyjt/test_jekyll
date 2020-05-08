@@ -96,4 +96,4 @@ Physical processes in F-TRIDYN. Figure made for my MS Thesis.
 
 ![PyBCA with geometry.](./bca_geom_3.png)
 
-PyBCA is a new port of TRIDYN to Python. This version includes 2D geometry, a new screened Coulomb scattering integral solver from Mendenhall and Weller (1991, 2005), and some nice plotting features. Check it out at: https://github.com/drobnyjt/pybca
+PyBCA is a new port of the binary collision approximation to Python. This version includes 2D geometry, a new screened Coulomb scattering integral solver from Mendenhall and Weller (1991, 2005), and some nice plotting features. Check it out at: https://github.com/drobnyjt/pybca
