@@ -23,12 +23,11 @@ layout: default
 * [F-TRIDYN: A Binary Collision Approximation code for simulating ion interactions with rough surfaces (JNM, 2017)](https://doi.org/10.1016/j.jnucmat.2017.07.037)
 
 ## Publications
-* Dependence of the damage in optical metal/dielectric coatings on 
-the energy of ions in irradiation experiments for space qualification (Scientific Reports, accepted, 2020)
+* Dependence of the damage in optical metal/dielectric coatings on the energy of ions in irradiation experiments for space qualification (Scientific Reports, accepted, 2020)
 * [Multi-physics modeling of the long-term evolution of helium plasma exposed surfaces (Physica Scripta, 2020)](https://doi.org/10.1088/1402-4896/ab4c29)
 
 ## Presenting Author Conference Talks and Posters
-* Particle in Cell Simulations of Material Emission from Boron and Lithium Surfaces Exposed to Deuterium Plasmas (PSI, upcoming 2020)
+* [High-performance PIC-BCA code for fusion-relevant plasma-material interactions (APS-DPP, 2020)](https://meetings.aps.org/Meeting/DPP20/Session/JP19.5)[***pdf***](./APS-DPP_2020_Drobny.pdf)
 * [Particle-particle simulations of plasma-material interactions (APS-DPP, 2019)](http://meetings.aps.org/Meeting/DPP19/Session/PO6.11) [***pdf***](./APS-DPP_2019_Drobny.pdf)
 * [Comparative Study of Explicit vs. Implicit Particle-in-Cell schemes for Plasma Sheath Simulations (APS-DPP, 2018)](https://meetings.aps.org/Meeting/DPP18/Session/CP11.81) [***pdf***](aps_dpp_pic_drobny_1_JD.pdf)
 * [Simulations of divertor target material composition during tokamak plasma operation with continuous boron powder injection (APS-DPP, 2018)](https://meetings.aps.org/Meeting/DPP18/Session/JP11.93) [***pdf***](aps_dpp_boronization_1_JD.pdf)
