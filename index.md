@@ -7,7 +7,7 @@ layout: default
 * Nuclear Fusion
 * Plasma-Material Interactions
 * Ion-Solid Interactions
-* Implicit and Explicit Particle-in-Cell Codes
+* Particle-in-Cell Codes
 * Binary Collision Approximation Codes
 * Fractal Surface Science
 * Interstellar Spaceflight
@@ -17,12 +17,14 @@ layout: default
 * * *
 
 ## First Author Publications
-* Survivability of Metallic Shields for Relativistic Spacecraft (JBIS, invited, submitted, 2020)
-* Damage to Relativistic Interstellar Spacecraft by ISM Impact Gas Accumulation (ApJ, under review, 2019)
+* Survivability of Metallic Shields for Relativistic Spacecraft (JBIS, invited, accepted, 2020)
+* Damage to Relativistic Interstellar Spacecraft by ISM Impact Gas Accumulation (ApJ, accepted, 2019)
 * [F-TRIDYN simulations of tungsten self-sputtering and applications to coupling plasma and material codes (CMS, 2018)](https://doi.org/10.1016/j.commatsci.2018.03.032)
 * [F-TRIDYN: A Binary Collision Approximation code for simulating ion interactions with rough surfaces (JNM, 2017)](https://doi.org/10.1016/j.jnucmat.2017.07.037)
 
 ## Publications
+* Dependence of the damage in optical metal/dielectric coatings on 
+the energy of ions in irradiation experiments for space qualification (Scientific Reports, accepted, 2020)
 * [Multi-physics modeling of the long-term evolution of helium plasma exposed surfaces (Physica Scripta, 2020)](https://doi.org/10.1088/1402-4896/ab4c29)
 
 ## Presenting Author Conference Talks and Posters
@@ -46,6 +48,7 @@ layout: default
 
 * Python 2.7, 3.6+
 * Fortran 90-95, 2018
+* Rust
 * C
 * MATLAB
 
@@ -54,7 +57,6 @@ layout: default
 * C++, C#
 * FORTRAN 77
 * R
-* Rust
 * GML
 
 * * *
@@ -79,21 +81,3 @@ Coupling of hydrogen plasma to boron wall, plotted in phase space. X-axis is pos
 ![PIC-BCA Distributions and Yields.](./iead_d_overlay_both_star.png)
 
 This figure shows in color the ion energy-angle distribution of deuterium striking a boron wall in a magnetized sheath. Contours in red show the sputtering yield of deuterium on boron, and contours in white show the reflection coefficient. The purple star shows the peak energy and angle of the deuterium IEAD. Using the peak energy and angle significantly underestimates the sputtering yield.
-
-## Impurity Tracing in Tokamaks
-
-![Impurity Tracer Trajectories.](./tokamaks_orbits_2.png)
-
-Tracing impurities in DIII-D from DIMES.
-
-## F-TRIDYN Physics
-
-![F-TRIDYN Physics illustration.](./ftridyn.png)
-
-Physical processes in F-TRIDYN. Figure made for my MS Thesis.
-
-## PyBCA Hydrogen on Copper at 10 keV
-
-![PyBCA with geometry.](./bca_geom_3.png)
-
-PyBCA is a new port of the binary collision approximation to Python. This version includes 2D geometry, a new screened Coulomb scattering integral solver from Mendenhall and Weller (1991, 2005), and some nice plotting features. Check it out at: https://github.com/drobnyjt/pybca
