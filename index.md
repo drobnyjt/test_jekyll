@@ -14,6 +14,11 @@ layout: default
 * Scientific Software Development
 * Code Coupling and Integrated Modeling
 
+## Simulating Plasma-Material Interactions
+
+![PIC-BCA 3D coupling illustration.](./PMI_7.png)
+This illustration shows the 3D PIC-BCA physics, including (a) sputtering, (b) ion-driven mixing, (c) vacancy production, (d) implantation, (e) layered composition, (f) ionization and redeposition, (g) reflection as neutrals. Regions of the near-surface plasma are (i) plasma presheath, (ii) magnetic presheath, (iii) Debye sheath.
+
 * * *
 
 ## First Author Publications
@@ -60,14 +65,9 @@ layout: default
 
 * * *
 
-# Selected Figures
+# Further Selected Figures
 
 * * *
-
-## PIC-BCA Coupling
-
-![PIC-BCA 3D coupling illustration.](./PMI_7.png)
-This illustration shows the 3D PIC-BCA physics, including (a) sputtering, (b) ion-driven mixing, (c) vacancy production, (d) implantation, (e) layered composition, (f) ionization and redeposition, (g) reflection as neutrals. Regions of the near-surface plasma are (i) plasma presheath, (ii) magnetic presheath, (iii) Debye sheath.
 
 ## PIC-BCA Coupling Example: Hydrogen on Boron
 
