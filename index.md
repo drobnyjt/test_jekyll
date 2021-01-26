@@ -46,6 +46,18 @@ This illustration shows the 3D PIC-BCA physics, including (a) sputtering, (b) io
 
 * * *
 
+## Miscellany
+
+* Founding member of NPRE Graduate Student Advisory Committee
+
+* Member and regular speaker of the Illinois chapter of [The Hacker Within](http://www.thehackerwithin.org/illinois/). Talks given include:
+  - Python 101
+  - Esoteric Programming Languages
+  - Introduction to the Rust Programming Language
+  - [Design and Communication: Scientific Illustration 101](https://docs.google.com/presentation/d/14dvScPZTLxRjnL6SMdTz-P0F8eXSf4sC91d8pyLsgXY/edit?usp=sharing)
+
+* * *
+
 ## Programming Languages
 
 ### Proficient with:
