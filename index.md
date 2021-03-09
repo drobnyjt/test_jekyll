@@ -23,7 +23,7 @@ This illustration shows the 3D PIC-BCA physics, including (a) sputtering, (b) io
 
 ## First Author Publications
 * [RustBCA: A High-Performance Binary-Collision-Approximation Code for Ion-Material Interactions] (https://github.com/lcpp-org/RustBCA/blob/master/paper/paper.md) (JOSS, submitted 2021)
-* Survivability of Metallic Shields for Relativistic Spacecraft (JBIS, 2020)
+* [Survivability of Metallic Shields for Relativistic Spacecraft](https://jbis.org.uk/paper/2020.73.446) (JBIS, 2020)
 * [Damage to Relativistic Interstellar Spacecraft by ISM Impact Gas Accumulation](https://iopscience.iop.org/article/10.3847/1538-4357/abd4ec) (ApJ, 2021)
 * [F-TRIDYN simulations of tungsten self-sputtering and applications to coupling plasma and material codes (CMS, 2018)](https://doi.org/10.1016/j.commatsci.2018.03.032)
 * [F-TRIDYN: A Binary Collision Approximation code for simulating ion interactions with rough surfaces (JNM, 2017)](https://doi.org/10.1016/j.jnucmat.2017.07.037)
