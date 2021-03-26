@@ -29,7 +29,7 @@ This illustration shows the 3D PIC-BCA physics, including (a) sputtering, (b) io
 * [F-TRIDYN: A Binary Collision Approximation code for simulating ion interactions with rough surfaces (JNM, 2017)](https://doi.org/10.1016/j.jnucmat.2017.07.037)
 
 ## Publications
-* [Dependence of the damage in optical metal/dielectric coatings on the energy of ions in irradiation experiments for space qualification (Nature Scientific Reports, 2021)](10.1038/s41598-021-82860-7)
+* [Dependence of the damage in optical metal/dielectric coatings on the energy of ions in irradiation experiments for space qualification (Nature Scientific Reports, 2021)](https://doi.org/10.1038/s41598-021-82860-7)
 * [Multi-physics modeling of the long-term evolution of helium plasma exposed surfaces (Physica Scripta, 2020)](https://doi.org/10.1088/1402-4896/ab4c29)
 
 ## Presenting Author Conference Talks and Posters
