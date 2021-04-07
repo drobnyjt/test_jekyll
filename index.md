@@ -31,6 +31,7 @@ This illustration shows the 3D PIC-BCA physics, including (a) sputtering, (b) io
 ## Publications
 * [Dependence of the damage in optical metal/dielectric coatings on the energy of ions in irradiation experiments for space qualification (Nature Scientific Reports, 2021)](https://doi.org/10.1038/s41598-021-82860-7)
 * [Multi-physics modeling of the long-term evolution of helium plasma exposed surfaces (Physica Scripta, 2020)](https://doi.org/10.1088/1402-4896/ab4c29)
+* Quantification of the Effect of Uncertainty On Impurity Migration in PISCES-A Simulated with GITR (Submitted to Nuclear Fusion, 2021)
 
 ## Presenting Author Conference Talks and Posters
 * [High-performance PIC-BCA code for fusion-relevant plasma-material interactions (APS-DPP, 2020)](https://meetings.aps.org/Meeting/DPP20/Session/JP19.5) [***pdf***](./APS-DPP_2020_Drobny.pdf)
