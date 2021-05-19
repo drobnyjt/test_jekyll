@@ -22,6 +22,7 @@ This illustration shows the 3D PIC-BCA physics, including (a) sputtering, (b) io
 * * *
 
 ## First Author Publications
+* Chebyshev Proxy Rootfinder to enable Attractive-Repulsive Potentials in Binary Collision Approximation Codes (JCOMP, submitted 2021)
 * [RustBCA: A High-Performance Binary-Collision-Approximation Code for Ion-Material Interactions (JOSS, submitted 2021)](https://github.com/lcpp-org/RustBCA/blob/master/paper/paper.md)
 * [Damage to Relativistic Interstellar Spacecraft by ISM Impact Gas Accumulation (ApJ, 2021)](https://iopscience.iop.org/article/10.3847/1538-4357/abd4ec)
 * [Survivability of Metallic Shields for Relativistic Spacecraft (JBIS, 2020)](https://jbis.org.uk/paper/2020.73.446)
