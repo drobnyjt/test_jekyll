@@ -34,7 +34,8 @@ This illustration shows the 3D PIC-BCA physics, including (a) sputtering, (b) io
 * [Multi-physics modeling of the long-term evolution of helium plasma exposed surfaces (Physica Scripta, 2020)](https://doi.org/10.1088/1402-4896/ab4c29)
 * Quantification of the Effect of Uncertainty On Impurity Migration in PISCES-A Simulated with GITR (Submitted to Nuclear Fusion, 2021)
 
-## Presenting Author Conference Talks and Posters
+## Presenting Author  Talks and Posters
+* [Preliminary Examination: Kinetic Modeling of Plasma-Material Interactions](https://docs.google.com/presentation/d/1APxuEOH6lyzJcKUoKbwpMTyLN24cWU9JuKH_H819EvE/edit?usp=sharing)
 * [High-performance PIC-BCA code for fusion-relevant plasma-material interactions (APS-DPP, 2020)](https://meetings.aps.org/Meeting/DPP20/Session/JP19.5) [***pdf***](./APS-DPP_2020_Drobny.pdf)
 * [Particle-particle simulations of plasma-material interactions (APS-DPP, 2019)](http://meetings.aps.org/Meeting/DPP19/Session/PO6.11) [***pdf***](./APS-DPP_2019_Drobny.pdf)
 * [Comparative Study of Explicit vs. Implicit Particle-in-Cell schemes for Plasma Sheath Simulations (APS-DPP, 2018)](https://meetings.aps.org/Meeting/DPP18/Session/CP11.81) [***pdf***](aps_dpp_pic_drobny_1_JD.pdf)
