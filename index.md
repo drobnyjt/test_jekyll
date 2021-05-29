@@ -29,10 +29,12 @@ This illustration shows the 3D PIC-BCA physics, including (a) sputtering, (b) io
 * [F-TRIDYN simulations of tungsten self-sputtering and applications to coupling plasma and material codes (CMS, 2018)](https://doi.org/10.1016/j.commatsci.2018.03.032)
 * [F-TRIDYN: A Binary Collision Approximation code for simulating ion interactions with rough surfaces (JNM, 2017)](https://doi.org/10.1016/j.jnucmat.2017.07.037)
 
-## Publications
+## Contributing Author Publications
+* Integrated model predictions on the impact of substrate damage on gas dynamics during ITER burning-plasma operations (submitted to Nuclear Fusion, 2021)
+* Quantification of the Effect of Uncertainty On Impurity Migration in PISCES-A Simulated with GITR (Submitted to Nuclear Fusion, 2021)
 * [Dependence of the damage in optical metal/dielectric coatings on the energy of ions in irradiation experiments for space qualification (Nature Scientific Reports, 2021)](https://doi.org/10.1038/s41598-021-82860-7)
 * [Multi-physics modeling of the long-term evolution of helium plasma exposed surfaces (Physica Scripta, 2020)](https://doi.org/10.1088/1402-4896/ab4c29)
-* Quantification of the Effect of Uncertainty On Impurity Migration in PISCES-A Simulated with GITR (Submitted to Nuclear Fusion, 2021)
+
 
 ## Presenting Author  Talks and Posters
 * [High-performance PIC-BCA code for fusion-relevant plasma-material interactions (APS-DPP, 2020)](https://meetings.aps.org/Meeting/DPP20/Session/JP19.5) [***pdf***](./APS-DPP_2020_Drobny.pdf)
